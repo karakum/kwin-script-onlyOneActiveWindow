@@ -1,0 +1,20 @@
+[Desktop Entry]
+Name=Minimize all inactive
+Comment=Automatically minimizes inactive windows
+Icon=preferences-system-windows-script-test
+
+Type=Service
+
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+
+X-KDE-PluginInfo-Author=Andrey Shertsinger
+X-KDE-PluginInfo-Email=andrey@shertsinger.ru
+X-KDE-PluginInfo-Name=minimizeAllInactive
+X-KDE-PluginInfo-Version=1.0
+
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-ServiceTypes=KWin/Script
+X-KDE-PluginKeyword=minimizeAllInactive
+X-KDE-ParentComponents=minimizeAllInactive
