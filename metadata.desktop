@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Minimize all inactive
+Name=Only one active window
 Comment=Automatically minimizes inactive windows
 Icon=preferences-system-windows-script-test
 
@@ -10,11 +10,12 @@ X-Plasma-MainScript=code/main.js
 
 X-KDE-PluginInfo-Author=Andrey Shertsinger
 X-KDE-PluginInfo-Email=andrey@shertsinger.ru
-X-KDE-PluginInfo-Name=minimizeAllInactive
+X-KDE-PluginInfo-Name=onlyOneActiveWindow
 X-KDE-PluginInfo-Version=1.0
 
 X-KDE-PluginInfo-Depends=
 X-KDE-PluginInfo-License=GPL
 X-KDE-ServiceTypes=KWin/Script
-X-KDE-PluginKeyword=minimizeAllInactive
-X-KDE-ParentComponents=minimizeAllInactive
+X-KDE-PluginKeyword=onlyOneActiveWindow
+X-KDE-ParentComponents=onlyOneActiveWindow
+
